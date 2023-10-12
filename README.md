@@ -26,8 +26,8 @@
 ## Planned to read
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-9780201633610) by _Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides_
 * [Extreme Programming Explained: Embrace Change, Second Edition](https://www.informit.com/store/extreme-programming-explained-embrace-change-9780321278654) by _Kent Beck_
-* [Accelerate: Building and Scaling High-Performing Technology Organizations](https://itrevolution.com/product/accelerate/) by Nicole Forsgren, Jez Humble, Gene Kim_
+* [Accelerate: Building and Scaling High-Performing Technology Organizations](https://itrevolution.com/product/accelerate/) by _Nicole Forsgren, Jez Humble, Gene Kim_
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.pearson.com/en-us/subject-catalog/p/clean-coder-the-a-code-of-conduct-for-professional-programmers/P200000009045) by _Robert C. Martin_
 * [Building Microservices: Designing Fine-Grained Systems](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) by _Sam Newman_
 * [Concurrency in Go: Tools and Techniques for Developers](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) by _Katherine Cox-Buday_
-* [Event-Driven Architecture in Golang: Bulding complex systems with asynchronocity and eventual consistency](https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012) by _Michael Stack_
+* [Event-Driven Architecture in Golang: Building complex systems with asynchronicity and eventual consistency](https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012) by _Michael Stack_
