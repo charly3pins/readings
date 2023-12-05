@@ -1,6 +1,4 @@
-# Reads
-
-> 📚 The list of books I am reading, have read or plan to read.
+📚 The list of books I am reading, have read or plan to read.
 
 -------
 
@@ -22,6 +20,7 @@
 * [Microservices Patterns](https://www.manning.com/books/microservices-patterns) by _Chris Richardson_
 * [Test Driven Development: By Example](https://www.informit.com/store/test-driven-development-by-example-9780321146533) by _Kent Beck_
 * [Domain-Driven Design with Golang: Use Golang to create simple, maintainable systems to solve complex business problems](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450) by _Matthew Boyle_
+* [Modern CTO](https://moderncto.io/book/) by _Joel Beasley_
 
 ## Planned to read
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-9780201633610) by _Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides_
