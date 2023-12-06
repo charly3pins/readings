@@ -7,8 +7,7 @@
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by _Camille Fournier_
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by _Titus Winters, Tom Manshreck, Hyrum Wright_
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/book) by _Matthew Skelton, Manuel Pais_
-* [Trilogía de la Fundación](https://www.penguinlibros.com/es/ciencia-ficcion/24385-ebook-trilogia-de-la-fundacion-9788499084367) by _Isaac Asimov_
-
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://itrevolution.com/product/the-phoenix-project/) by _Gene Kim, Kevin Behr, George Spafford_
 
 ## Read
 * [The Go Programming Language](https://www.informit.com/store/go-programming-language-9780134190440) by _Alan A. A. Donovan, Brian W. Kernighan_
