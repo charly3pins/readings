@@ -3,10 +3,7 @@
 -------
 
 ## Reading
-* [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.oreilly.com/library/view/monolith-to-microservices/9781492047834/) by _Sam Newman_
-* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by _Camille Fournier_
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by _Titus Winters, Tom Manshreck, Hyrum Wright_
-* [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/book) by _Matthew Skelton, Manuel Pais_
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://itrevolution.com/product/the-phoenix-project/) by _Gene Kim, Kevin Behr, George Spafford_
 
 ## Read
@@ -14,12 +11,15 @@
 * [Go in Action](https://www.manning.com/books/go-in-action) by _William Kennedy, Brian Ketelsen, Erik St. Martin_
 * [Domain-Driven Design Distilled](https://www.informit.com/store/domain-driven-design-distilled-9780134434421) by _Vaughn Vernon_
 * [Implementing Domain-Driven Design](https://www.informit.com/store/implementing-domain-driven-design-9780321834577) by _Vaughn Vernon_
+* [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.oreilly.com/library/view/monolith-to-microservices/9781492047834/) by _Sam Newman_
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.pearson.com/en-us/subject-catalog/p/clean-code-a-handbook-of-agile-software-craftsmanship/P200000009044) by _Robert C. Martin_
 * [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.pearson.com/en-us/subject-catalog/p/clean-architecture-a-craftsmans-guide-to-software-structure-and-design/P200000009528/9780134494166) by _Robert C. Martin_
 * [Microservices Patterns](https://www.manning.com/books/microservices-patterns) by _Chris Richardson_
 * [Test Driven Development: By Example](https://www.informit.com/store/test-driven-development-by-example-9780321146533) by _Kent Beck_
 * [Domain-Driven Design with Golang: Use Golang to create simple, maintainable systems to solve complex business problems](https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450) by _Matthew Boyle_
 * [Modern CTO](https://moderncto.io/book/) by _Joel Beasley_
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by _Camille Fournier_
+* [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/book) by _Matthew Skelton, Manuel Pais_
 
 ## Planned to read
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-9780201633610) by _Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides_
