@@ -5,6 +5,7 @@
 ## Reading
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by _Titus Winters, Tom Manshreck, Hyrum Wright_
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://itrevolution.com/product/the-phoenix-project/) by _Gene Kim, Kevin Behr, George Spafford_
+* [Las 48 leyes del poder](https://www.planetadelibros.com/libro-las-48-leyes-del-poder/61346) by _Robert Greene, Joost Elffers_
 
 ## Read
 * [The Go Programming Language](https://www.informit.com/store/go-programming-language-9780134190440) by _Alan A. A. Donovan, Brian W. Kernighan_
