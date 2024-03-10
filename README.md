@@ -23,6 +23,7 @@
 * [Bitcoin, Blockchain y Tokenización para inquietos](https://www.bubok.es/libros/261863/bitcoin-blockchain-y-tokenizacion-para-inquietos) by _Miguel Caballero_
 * [Finanzas descentralizadas para inquietos](https://www.bubok.es/libros/266912/finanzas-descentralizadas-para-inquietos) by _Miguel Caballero, Arnau Ramió, Marcos Carrera_
 * [Web3 para inquietos](https://www.bubok.es/libros/273376/web3-para-inquietos) by _Miguel Caballero_
+* [Adrenalina: Mis historias jamás contadas](https://www.penguinlibros.com/es/tiempo-libre/337156-libro-adrenalina-9788412511031) by _Zlatan Ibrahimovic_
 
 ## Planned to read
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-9780201633610) by _Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides_
