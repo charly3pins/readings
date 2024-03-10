@@ -25,6 +25,7 @@
 * [Web3 para inquietos](https://www.bubok.es/libros/273376/web3-para-inquietos) by _Miguel Caballero_
 * [Adrenalina: Mis historias jamás contadas](https://www.penguinlibros.com/es/tiempo-libre/337156-libro-adrenalina-9788412511031) by _Zlatan Ibrahimovic_
 * [La filosofía de Bitcoin](https://libros.com/comprar/the-philosophy-of-bitcoin/) by _Álvaro D. María_
+* [Padre rico, padre pobre](https://www.penguinlibros.com/es/economia-politica-y-actualidad/256990-libro-padre-rico-padre-pobre-edicion-especial-ampliada-actualizada-y-en-tapa-dura-9788403522527) by _Robert T. Kiyosaki_
 
 ## Planned to read
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-9780201633610) by _Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides_
