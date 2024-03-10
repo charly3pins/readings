@@ -21,6 +21,7 @@
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by _Camille Fournier_
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/book) by _Matthew Skelton, Manuel Pais_
 * [Bitcoin, Blockchain y Tokenización para inquietos](https://www.bubok.es/libros/261863/bitcoin-blockchain-y-tokenizacion-para-inquietos) by _Miguel Caballero_
+* [Finanzas descentralizadas para inquietos](https://www.bubok.es/libros/266912/finanzas-descentralizadas-para-inquietos) by _Miguel Caballero, Arnau Ramió, Marcos Carrera_
 
 ## Planned to read
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.informit.com/store/design-patterns-elements-of-reusable-object-oriented-9780201633610) by _Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides_
