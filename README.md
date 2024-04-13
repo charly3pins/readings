@@ -5,7 +5,6 @@
 ## Reading
 * [Software Engineering at Google: Lessons Learned from Programming Over Time](https://amzn.to/3TgWORq) by _Titus Winters, Tom Manshreck, Hyrum Wright_
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3TD3jPG) by _Gene Kim, Kevin Behr, George Spafford_
-* [Las 48 leyes del poder](https://amzn.to/3IEvibx) by _Robert Greene, Joost Elffers_
 * [Un paso por delante de Wall Street: Cómo utilizar lo que ya sabes para ganar dinero en bolsa](https://amzn.to/3VLPIHj) by _Peter Lynch_
 * [Mastering Vim Quickly: From WTF to OMG in no time](https://amzn.to/3Jaiqu0) by _Jovica Ilic_
 
@@ -30,6 +29,7 @@
 * [Adrenalina: Mis historias jamás contadas](https://amzn.to/3Tb4BQo) by _Zlatan Ibrahimovic_
 * [La filosofía de Bitcoin](https://amzn.to/3wTeKKe) by _Álvaro D. María_
 * [Padre rico, padre pobre](https://amzn.to/43kF7oz) by _Robert T. Kiyosaki_
+* [Las 48 leyes del poder](https://amzn.to/3IEvibx) by _Robert Greene, Joost Elffers_
 
 ## Planned to read
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/3Visatg) by _Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides_
