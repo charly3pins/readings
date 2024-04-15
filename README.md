@@ -7,6 +7,7 @@
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3TD3jPG) by _Gene Kim, Kevin Behr, George Spafford_
 * [Un paso por delante de Wall Street: Cómo utilizar lo que ya sabes para ganar dinero en bolsa](https://amzn.to/3VLPIHj) by _Peter Lynch_
 * [Mastering Vim Quickly: From WTF to OMG in no time](https://amzn.to/3Jaiqu0) by _Jovica Ilic_
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/3Visatg) by _Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides_
 * [La semana laboral de 4 horas](https://amzn.to/4aCAU2u) by _Timothy Ferriss_
 
 ## Read
@@ -33,7 +34,6 @@
 * [Las 48 leyes del poder](https://amzn.to/3IEvibx) by _Robert Greene, Joost Elffers_
 
 ## Planned to read
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/3Visatg) by _Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides_
 * [Extreme Programming Explained: Embrace Change, Second Edition](https://amzn.to/3x3rH41) by _Kent Beck_
 * [Accelerate: Building and Scaling High-Performing Technology Organizations](https://amzn.to/3IzCxS9) by _Nicole Forsgren, Jez Humble, Gene Kim_
 * [The Clean Coder: A Code of Conduct for Professional Programmers](https://amzn.to/3IGI2hT) by _Robert C. Martin_
