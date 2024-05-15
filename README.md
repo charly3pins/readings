@@ -7,6 +7,7 @@
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://amzn.to/3TgWORq) by _Titus Winters, Tom Manshreck, Hyrum Wright_
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3TD3jPG) by _Gene Kim, Kevin Behr, George Spafford_
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://amzn.to/3Visatg) by _Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides_
+- [El mundo está en venta: La cara oculta del negocio de las materias primas](https://amzn.to/4bDdQk9) by _Javier Blas, Jack Farchy_
 
 ## Read
 
