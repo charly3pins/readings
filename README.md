@@ -5,11 +5,11 @@
 ## Reading
 
 - Software Engineering at Google: Lessons Learned from Programming Over Time (_Titus Winters, Tom Manshreck, Hyrum Wright_)
-- The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (_Gene Kim, Kevin Behr, George Spafford_)
 - Cómo dominar el ciclo de las inversiones: e inclinar las probabilidades de ganar a su favor (_Howard Marks_)
 - Principios (_Ray Dalio_)
 - La rebelión de Atlas (_Ayn Rand_)
 - Steve Jobs (_Walter Isaacson_)
+- Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations (_Nicole Forsgren PhD, Jez Humble, Gene Kim_)
 
 ## Read
 
@@ -52,7 +52,6 @@
 ## Planned to read
 
 - Extreme Programming Explained: Embrace Change, Second Edition (_Kent Beck_)
-- Accelerate: Building and Scaling High-Performing Technology Organizations (_Nicole Forsgren, Jez Humble, Gene Kim_)
 - The Clean Coder: A Code of Conduct for Professional Programmers (_Robert C. Martin_)
 - Building Microservices: Designing Fine-Grained Systems (_Sam Newman_)
 - Concurrency in Go: Tools and Techniques for Developers (_Katherine Cox-Buday_)
