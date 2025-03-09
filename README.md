@@ -10,6 +10,7 @@
 - Steve Jobs (_Walter Isaacson_)
 - Padre, el último mono (_Berto Romero_)
 - Machine Learning for Hackers (_Drew Conway, John Myles White_)
+- Server-Driven Web Apps with htmx (_R. Mark Volkmann_)
 
 ## Read
 
