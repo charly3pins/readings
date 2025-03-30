@@ -8,7 +8,6 @@
 - Cómo dominar el ciclo de las inversiones: e inclinar las probabilidades de ganar a su favor (_Howard Marks_)
 - La rebelión de Atlas (_Ayn Rand_)
 - Steve Jobs (_Walter Isaacson_)
-- Server-Driven Web Apps with htmx (_R. Mark Volkmann_)
 - Python Machine Learning, Second Edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow , Second Edition (_Sebastian Raschka, Vahid Mirjalili_)
 
 ## Read
@@ -53,6 +52,7 @@
 - Technology Strategy Patterns: Architecture as Strategy (_Eben Hewitt_)
 - YATSUHAKA-MURA. El pueblo de las ocho tumbas (_Seishi Yokomizo_)
 - Padre, el último mono (_Berto Romero_)
+- Server-Driven Web Apps with htmx (_R. Mark Volkmann_)
 
 ## Planned to read
 
