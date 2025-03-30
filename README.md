@@ -9,6 +9,7 @@
 - La rebelión de Atlas (_Ayn Rand_)
 - Steve Jobs (_Walter Isaacson_)
 - Python Machine Learning, Second Edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow , Second Edition (_Sebastian Raschka, Vahid Mirjalili_)
+- La abolición del hombre (_C.S. Lewis_)
 
 ## Read
 
