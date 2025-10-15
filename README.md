@@ -55,6 +55,7 @@
 - YATSUHAKA-MURA. El pueblo de las ocho tumbas (_Seishi Yokomizo_)
 - Padre, el último mono (_Berto Romero_)
 - Server-Driven Web Apps with htmx (_R. Mark Volkmann_)
+- LangChain for JavaScript developers (_Daniel Nastase_)
 
 ## Planned to read
 
